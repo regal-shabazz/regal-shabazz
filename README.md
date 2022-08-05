@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Babatunde
 - 👀 I’m interested in learning frontend development and i have acquired sufficient knowledge on HTML and CSS.
-- 🌱 I’m currently learning Bootstrap, afterwhich JavaScript will follow.
+- 🌱 I’m currently learning Bootstrap, afterwhich JavaScript follows.
 - 💞️ I’m looking to collaborate on simple website design projects to brush up my skills.
 - 📫 @anotherTunde_ on Twitter, Babatunde Oshin on Facebook.
+
+I'll be back to update this.
 
 <!---
 regal-shabazz/regal-shabazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
