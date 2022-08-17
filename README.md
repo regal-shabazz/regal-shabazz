@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Babatunde
-- 👀 I’m interested in learning frontend development and i have acquired sufficient knowledge on HTML and CSS.
-- 🌱 I’m currently learning Bootstrap, afterwhich JavaScript follows.
-- 💞️ I’m looking to collaborate on simple website design projects to brush up my skills.
+- 👀 I’m learning frontend development and i have acquired sufficient knowledge on HTML and CSS.
+- 🌱 I’m currently learning JavaScript.
+- 💞️ I’m looking to collaborate with other web devs to improve my skills.
 - 📫 @anotherTunde_ on Twitter, Babatunde Oshin on Facebook.
 
 I'll be back to update this.
